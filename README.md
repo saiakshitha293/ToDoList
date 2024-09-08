@@ -8,3 +8,5 @@ Task Management: Users can add, edit, and delete tasks within their personalized
 Priority Levels: Tasks can be organized based on priority, making it easier to focus on important tasks.
 Persistent Data: All data is securely stored in the cloud via Firebase, ensuring tasks are available across multiple devices.
 Clean UI: The app uses a simple and clean design with SwiftUI for an intuitive user experience.
+
+<img width="360" alt="Screenshot 2024-09-06 at 11 52 09 AM" src="https://github.com/user-attachments/assets/639c8293-c2c5-4eb4-838c-a936381b2ddf">
