@@ -1,4 +1,3 @@
-To-Do List App
 This iOS To-Do List app is built using Swift and SwiftUI, designed to help users manage their tasks efficiently. The app offers a seamless experience for task management with user authentication and personalized data storage using Firebase.
 
 Key Features:
